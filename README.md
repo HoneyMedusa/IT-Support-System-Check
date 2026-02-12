@@ -6,14 +6,23 @@ Name: Raeesah Adams
 Date: 11/02/2025
 
 System Specifications
+
 Operating System: Windows 10 Pro
+
 Version: 10.0.19045 Build 19045
+
 System Type: 64-bit
+
 Processor: Intel(R) Core(TM) i5 - 2400 CPU@3.10GHz 4 core(s) 4 Logical pro
+
 Installed RAM: 4.00GB
+
 Connection Type: Wi-Fi
+
 IPv4 Address: 172.20.7.51
+
 Default Gateway: 172.20.6.1
+
 Ping test to google.com was successful and Network was active.
 
 System info: <img width="1366" height="768" alt="system-info png" src="https://github.com/user-attachments/assets/c2dc5db0-45d8-4afb-a810-750ede7f6679" />
@@ -23,7 +32,7 @@ IP Address CMD : <img width="1366" height="728" alt="IP Address cmd" src="https:
 Internet Connectivity : <img width="1366" height="728" alt="Internet connectivity" src="https://github.com/user-attachments/assets/0a0240a3-084d-4e18-9e3a-e2d868c8adc5" />
 
 
-Simulated Issue
+Simulated Issue:
 The network adapter was manually disabled to simulate an internet disconnection.
 Result: Internet connection lost, ping request failed
 
